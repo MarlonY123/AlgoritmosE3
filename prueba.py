@@ -94,3 +94,4 @@ for e in g.edges():
 nx.draw(g, edge_color=ncolors)
 
 # %%
+
